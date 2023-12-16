@@ -34,4 +34,3 @@ Construcción de un QA Bot.
 
 # Gracias!
 Sientanse libre de comunicarse a mi mail brunorais13@gmail.com ante cualquier duda o consulta.
-:smile:!!
