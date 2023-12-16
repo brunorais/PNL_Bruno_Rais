@@ -1,32 +1,37 @@
-# AI-Specialization-Projects
+# Portafolio de Desafíos de Procesamiento Natulal del Lenguaje
 
-AI-Specialization - UBA (Universidad Nacional de Buenos Aires) - Final Projects
+Desafíos correspondientes a la materia Procesamiento Natural del Leguaje de la Especialización en Inteligenci Artificial de la facultad de ingeniería de la Universidad de Buenos Aires.
 
-## Deep Learning exam
-Colab: [deep_larning_learning_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/deep_learning_exam.ipynb)
+## Desafío 1
+En este desafio se realizó:
+-  Transformacón en una lista de términos de 3 strings.
+-  Contrucción de un vector de términos no repetidos.
+-  Dada una lista de textos, devolución de una matriz con la representación oneHotEncoding.
+-  Dada una lista de textos, devolución de una matriz con la representación de frecuencia.
+-  Dada una lista de textos, devolución de una matriz con la representacion TFIDF.
+-  Una funcion que reciba el corpus y el índice de un documento y devuelva los documentos ordenados por la similitud coseno.
 
-## Machine Learning exam
+## Desafío 2
 ![img1](images/heart.png)\
-Study dataset from heart desease. Select best model and optimize with hyperparameter tuning and AI platforms.\
-Colab: [machine_learning_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/machine_learning_exam.ipynb)
+A partir de los bots utilizados en la clase 2 de la materia, se tomó uno de ejemplo para la contrución de uno propio.
 
-## Computer vision exam
+
+## Desafío 3
 ![img1](images/sentinel.png)\
-Analyze satelital images from farming, use computer vision model for classify fields\
-Colab: [computer_vision_learning_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/computer_vision_exam.ipynb)
+Se creó vectores con Gensim basado tomando como dataset la pagina de wikipedia de Messi https://en.wikipedia.org/wiki/Messi.
+Ademas, se probaron términos de interés y se entreno el espacio de embeddings.
 
-## Natural language processing exam
+## Desafío 4
 ![img1](images/sentiment_analysis.png)\
-Sentiment analysis from movies comments. Use differentes approach and compare results:\
-- OneHotEncoding
-- Words2Vec
-- CBOW
-- Fasttext and Glove embeddings
-- LSTM
-- BERT
+Se utilizó como dataset la pagina de wikipedia de Leonardo Da Vinci https://en.wikipedia.org/wiki/Leonardo_da_Vinci y se puso en práctica la predicción de próxima palabra.
 
-Colab: [NLP_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/nlp_exam.ipynb)
+## Desafío 5
+Utilización de Embeddings + LSTM para clasificar críticas de compradores de ropa. 
 
-# Thanks!
-Feel free to contact me by mail _hernan4790@gmail.com_ for any doubt.\
-Enjoy :smile:!!
+## Desafío 6
+Construcción de un QA Bot basado.
+
+
+# Gracias!
+Sientanse libre de comunicarse a mi mail brunorais13@gmail.com ante cualquier duda o consulta.
+:smile:!!
