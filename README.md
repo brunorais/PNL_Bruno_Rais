@@ -29,7 +29,7 @@ Se utilizó como dataset la pagina de wikipedia de Leonardo Da Vinci https://en.
 Utilización de Embeddings + LSTM para clasificar críticas de compradores de ropa. 
 
 ## Desafío 6
-Construcción de un QA Bot basado.
+Construcción de un QA Bot.
 
 
 # Gracias!
